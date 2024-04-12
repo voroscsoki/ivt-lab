@@ -17,6 +17,7 @@ public class GT4500 implements SpaceShip {
 
   public boolean fireLaser(FiringMode firingMode) {
     // TODO not implemented yet
+    // the laser should probably be able to jam
     return false;
   }
 
